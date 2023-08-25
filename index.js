@@ -147,7 +147,3 @@ app.get('/post/:id', async (req, res) => {
 
 
 app.listen(4000);
-//jtNMV4nLbJ40Mlit
-//mongodb+srv://agrawalansh2701:<password>@cluster0.thxlu9u.mongodb.net/?retryWrites=true&w=majority
-// const secret = 'abdgbahnkstgdvcxxn'
-// mongoose.connect('mongodb+srv://agrawalansh2701:jtNMV4nLbJ40Mlit@cluster0.thxlu9u.mongodb.net/?retryWrites=true&w=majority')
